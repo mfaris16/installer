@@ -1,5 +1,5 @@
 {
-    "name": "laravel/installer",
+    "name": "mfaris16/installer",
     "description": "Laravel application installer.",
     "keywords": ["laravel"],
     "license": "MIT",
@@ -9,11 +9,6 @@
             "email": "taylorotwell@gmail.com"
         }
     ],
-    "autoload": {
-        "psr-4": {
-            "Laravel\\Installer\\Console\\": "src/"
-        }
-    },
     "require": {
         "ext-zip": "*",
         "guzzlehttp/guzzle": "~6.0",
