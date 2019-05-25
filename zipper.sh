@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-wget https://github.com/laravel/laravel/archive/master.zip
+wget https://github.com/mfaris16/garudaframework7/archive/master.zip
 unzip master.zip -d working
 cd working/laravel-master
 composer install
